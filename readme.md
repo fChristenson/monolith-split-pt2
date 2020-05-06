@@ -12,4 +12,5 @@ Question:
 
 - How do we deal with keeping models in sync across services?
 - Are too many shared models an indicator that the split was bad?
+- Is taking in to account how the company is split a good start for SOA?
 - How is DDD related to SOA?
